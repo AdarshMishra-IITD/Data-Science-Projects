@@ -1,8 +1,7 @@
 # Objective: Predict 12 months of data of Accedental death in USA using Time Series Analysis 
 
 The dataset is provided with 2 columns:
-Month
-Accidental deaths in USA
+Month, Accidental deaths in USA
 
 Approach:
 
