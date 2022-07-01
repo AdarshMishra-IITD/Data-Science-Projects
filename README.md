@@ -3,9 +3,9 @@
 The dataset is provided with 2 columns:
 Month, Accidental deaths in USA
 
-Approach:
+# Approach:
 
-Visualise the Time series
+- Visualise the Time series
 Decomposing into trend, seasonal, cyclical and noise components
 Analyze the seasonality of a Time Series: additive and multiplicative.
 Check stationarity of data - Rolling Mean, ADCF Test(Augmented Dickey–Fuller test)
